@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\gatorTaxi.dir/objects.a
+C:\Users\ROG\C++17Compiler\MinGW\bin\ar.exe qc CMakeFiles\gatorTaxi.dir/objects.a @CMakeFiles\gatorTaxi.dir\objects1.rsp
+C:\Users\ROG\C++17Compiler\MinGW\bin\g++.exe -Wl,--whole-archive CMakeFiles\gatorTaxi.dir/objects.a -Wl,--no-whole-archive -o gatorTaxi.exe -Wl,--out-implib,libgatorTaxi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gatorTaxi.dir\linkLibs.rsp

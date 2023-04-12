@@ -1,0 +1,3 @@
+D:/college 2/SEM 2/ADS/Project/CMakeFiles/gatorTaxi.dir
+D:/college 2/SEM 2/ADS/Project/CMakeFiles/edit_cache.dir
+D:/college 2/SEM 2/ADS/Project/CMakeFiles/rebuild_cache.dir
